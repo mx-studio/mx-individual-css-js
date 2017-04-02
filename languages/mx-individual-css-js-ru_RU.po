@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MX Individual CSS/JS\n"
+"POT-Creation-Date: 2017-04-02 18:44+0700\n"
+"PO-Revision-Date: 2017-04-02 18:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mx-individual-css-js.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mx-individual-css-js.php:71
+msgid "Settings updated"
+msgstr "Настройки обновлены"
+
+#. Plugin Name of the plugin/theme
+#: mx-individual-css-js.php:88
+msgid "MX Individual CSS/JS"
+msgstr ""
+
+#: mx-individual-css-js.php:100
+msgid "MX Individual CSS/JS Settings"
+msgstr "Настройки MX Individual CSS/JS"
+
+#: mx-individual-css-js.php:113
+msgid "Combine"
+msgstr "Объединить"
+
+#: mx-individual-css-js.php:117
+msgid "all attached CSS files into one union file"
+msgstr "все подключенные CSS-файлы в один объединенный файл"
+
+#: mx-individual-css-js.php:119
+msgid "all attached JS files into one union file"
+msgstr "все подключенные JS-файлы в один объединенный файл"
+
+#: mx-individual-css-js.php:123
+msgid "Path to CSS files"
+msgstr "Путь к CSS-файлам"
+
+#: mx-individual-css-js.php:126 mx-individual-css-js.php:133
+msgid "Path should be specified relative to the theme folder"
+msgstr "Путь должен быть указан относительно папки темы"
+
+#: mx-individual-css-js.php:130
+msgid "Path to JS files"
+msgstr "Путь к JS-файлам"
+
+#: mx-individual-css-js.php:139
+msgid "Update changes"
+msgstr "Сохранить изменения"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mxsite.ru"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows to use individual CSS/JS files for different types of pages. It "
+"allows to reduce the size of CSS/JS code of the certain page by using only "
+"relevant parts of CSS/JS."
+msgstr ""
+"Позволяет использовать индивидуальные CSS/JS-файлы для разных типов "
+"страниц. Это позволяет сократить размер CSS/JS-кода отдельных страниц "
+"сайта за счет использования только того кода, который относится к текущему "
+"типу страницы."
+
+#. Author of the plugin/theme
+msgid "MX Studio"
+msgstr ""
